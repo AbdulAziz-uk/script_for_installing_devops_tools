@@ -1,12 +1,27 @@
-# Script_for_installing_devops_tools
-## copy the code and create a script file in your local system:  $nano jenkins_installation.sh 
-
+# Script for installing devops tools
+## Copy the required code, create a script file with the following command and paste it:  
+```bash
+nano filename.sh 
+```
+or
+ ```bash
+vim filename.sh 
+```
 Paste the code and exit: Cntrl X + y and enter.
+
+or 
+
+:wq!
 
 ## Set executable permission to run this script.
 
-$chmod +x jenkins_installation.sh
+```bash
+chmod +x filename.sh
+```
 
-## TO install jenkins run the script.
+## To install tool run the script.
 
-$sh jenkins_installation.sh
+ ```bash
+sh filename.sh
+```
+
