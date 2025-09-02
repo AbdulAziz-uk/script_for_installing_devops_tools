@@ -18,6 +18,11 @@ or
 ```bash
 chmod +x filename.sh
 ```
+## Set executable permission to run all scripts.
+
+```bash
+chmod +x *.sh
+```
 
 ## To install tool run the script.
 
